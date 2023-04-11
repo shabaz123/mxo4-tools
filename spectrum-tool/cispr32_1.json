@@ -1,0 +1,18 @@
+{
+    "title": "CISPR 32",
+    "title2": "Conducted Emission Voltage Limits",
+    "title3": "Telecom/LAN ports",
+    "total_plots": 3,
+    "name1": "Class B Average",
+    "ylabel1": "dBuV",
+    "freq1": [0.15, 0.5, 30],
+    "yval1": [74, 62, 62],
+    "name2": "Class A Average, Class B Quasi-Peak",
+    "ylabel2": "dBuV",
+    "freq2": [0.15, 0.5, 30],
+    "yval2": [84, 72, 72],
+    "name3": "Class A Quasi-Peak",
+    "ylabel3": "dBuV",
+    "freq3": [0.15, 0.5, 30],
+    "yval3": [97, 85, 85]
+}
