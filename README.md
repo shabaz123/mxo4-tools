@@ -1,6 +1,7 @@
 # MXO 4 Tools
 
 This repository contains software for working with the Rohde & Schwarz MXO 4 Oscilloscope. For more details, see the following link:
+[MXO 4 Review](https://community.element14.com/products/roadtest/rv/roadtest_reviews/1683/rohde_schwarz_mxo_4_oscilloscope_a_review)
 
 
 
